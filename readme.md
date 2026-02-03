@@ -1,5 +1,7 @@
 
-**This project is deprecated, and full of memory leaks**
+# ⚠️ WARNING
+
+*This project is deprecated, and full of memory leaks*
 
 # Hyper C Markup eXtension
 
