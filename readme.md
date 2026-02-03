@@ -1,6 +1,5 @@
----
+
 **This project is deprecated, and full of memory leaks**
----
 
 # Hyper C Markup eXtension
 
