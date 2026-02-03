@@ -1,3 +1,7 @@
+---
+**This project is deprecated, and full of memory leaks**
+---
+
 # Hyper C Markup eXtension
 
 The goal of this project is to implement a minimalistic web framework that uses C on the backend. This project will integrate with HTMX for the frontend and will use a custom markup language for the backend.
